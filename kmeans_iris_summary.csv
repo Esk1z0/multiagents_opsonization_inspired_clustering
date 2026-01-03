@@ -1,0 +1,2 @@
+dataset,algorithm,k,ari_mean,ari_std,nmi_mean,nmi_std,silhouette_mean,silhouette_std,davies_bouldin_mean,davies_bouldin_std,n_runs
+iris,kmeans,3,0.6201351808870377,2.2584051416334807e-16,0.6594868927249179,1.1292025708167404e-16,0.4599482392051863,5.646012854083702e-17,0.8335949464754335,2.2584051416334807e-16,30
