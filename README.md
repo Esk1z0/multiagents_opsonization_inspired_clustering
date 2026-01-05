@@ -455,6 +455,8 @@ Output:
   - Final object positions pos(i)
   - Discarded flags discarded(i)
 
+```
+
 # SECCIÓN EXPERIMENTAL — PROTOCOLO, MÉTRICAS Y BASELINES
 
 Esta sección describe **de forma reproducible y trazable** el diseño experimental utilizado para evaluar OIC-Grid y compararlo con un baseline estándar (*k-means*). El objetivo no es optimizar resultados, sino **validar empíricamente el comportamiento del algoritmo bajo métricas de clustering aceptadas**.
